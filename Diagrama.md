@@ -1,4 +1,6 @@
 # ING-SISTEMAS
+```mermaid
+
 graph LR
     A[Desarrollo de Software] --> B[Frontend]
     A --> C[Backend]
