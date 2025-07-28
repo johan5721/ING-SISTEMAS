@@ -19,7 +19,7 @@ https://docs.github.com/es/get-started/start-your-journey/git-and-github-learnin
 | 9  | VERA/SALCEDO, Luis Alberto | luis@unsa.edu.pe | DevOps/SysAdmin | @luis |
 | 10 | VICENTE/MEDINA, Eder Lucio | evicentem@unsa.edu.pe | Backend Support | @eder |
 | 11 | YUCRA/TICONIA, Johan Jeremy | jyucrat@unsa.edu.pe | QA Support | johan |
-| 12 | CAVERO/ALE, Leonardo Ismael | leonardo@unsa.edu.pe | Frontend Support | @leonardo |
+| 12 | CAVERO/ALE, Leonardo Ismael | lcavero@unsa.edu.pe | Frontend Support | leonardo |
 
 ## 1) Conceptos Generales para tener en cuenta
 
