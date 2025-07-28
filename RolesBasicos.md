@@ -17,7 +17,7 @@ https://docs.github.com/es/get-started/start-your-journey/git-and-github-learnin
 | 7  | VALENCIA/VILCAS, Jose Carlos | jose@unsa.edu.pe | QA Manual/Functional | @jose |
 | 8  | ARCANO/GONZALES, Edgard Darick | edgard@unsa.edu.pe | QA Automation/API | @edgard |
 | 9  | VERA/SALCEDO, Luis Alberto | luis@unsa.edu.pe | DevOps/SysAdmin | @luis |
-| 10 | VICENTE/MEDINA, Eder Lucio | eder@unsa.edu.pe | Backend Support | @eder |
+| 10 | VICENTE/MEDINA, Eder Lucio | evicentem@unsa.edu.pe | Backend Support | @eder |
 | 11 | YUCRA/TICONIA, Johan Jeremy | johan@unsa.edu.pe | QA Support | @johan |
 | 12 | CAVERO/ALE, Leonardo Ismael | leonardo@unsa.edu.pe | Frontend Support | @leonardo |
 
