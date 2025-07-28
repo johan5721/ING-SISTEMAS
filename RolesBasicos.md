@@ -578,11 +578,3 @@ Al finalizar este estudio, cada miembro del equipo habrá:
 5. **Documentado** su experiencia y aprendizajes
 
 ---
-
-## 📞 Contacto y Soporte
-
-**Project Owner**: José Jiménez (josej@unsa.edu.pe)  
-**GitHub Repository**: https://github.com/jjuarez29/EstudioRolesBasicos  
-**Horario de consultas**: Lunes a Viernes, 14:00 - 16:00 hrs
-
----
