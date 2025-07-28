@@ -9,7 +9,7 @@ https://docs.github.com/es/get-started/start-your-journey/git-and-github-learnin
 |----|-----------------|-------|---------------|-----------------|
 | 0  | JUAREZ BUENO/ Juan Carlos    | jjuarez@unsa.edu.pe | Product Owner | @jjuarez29 |
 | 1  | CONDORI/CATASI, Jonnier Angel | jonnier@unsa.edu.pe | Project Manager | @jonnier |
-| 2  | ACHIRI/CUEVAS, Daniel Cooper | daniel@unsa.edu.pe | UI/UX Designer | @daniel |
+| 2  | ACHIRI/CUEVAS, Daniel Cooper | dachiri@unsa.edu.pe | UI/UX Designer | @AchiriXD |
 | 3  | JALA/PARICANAZA, Ronald David | ronald@unsa.edu.pe | Frontend Web Developer | @ronald |
 | 4  | MAQUERA/MUSAJA, Kaled Jair | kaled@unsa.edu.pe | Frontend Android Developer | @kaled |
 | 5  | APAZA/QUISPE, Gian Franco | gapazaqui@unsa.edu.pe | Backend Developer | @j3an31 |
