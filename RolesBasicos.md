@@ -12,7 +12,7 @@ https://docs.github.com/es/get-started/start-your-journey/git-and-github-learnin
 | 2  | ACHIRI/CUEVAS, Daniel Cooper | daniel@unsa.edu.pe | UI/UX Designer | @daniel |
 | 3  | JALA/PARICANAZA, Ronald David | ronald@unsa.edu.pe | Frontend Web Developer | @ronald |
 | 4  | MAQUERA/MUSAJA, Kaled Jair | kaled@unsa.edu.pe | Frontend Android Developer | @kaled |
-| 5  | APAZA/QUISPE, Gian Franco | gian@unsa.edu.pe | Backend Developer | @gian |
+| 5  | APAZA/QUISPE, Gian Franco | gapazaqui@unsa.edu.pe | Backend Developer | @j3an31 |
 | 6  | MEZA/ROMERO, Osmeyer Eddu | osmeyer@unsa.edu.pe | Backend Developer | @osmeyer |
 | 7  | VALENCIA/VILCAS, Jose Carlos | jose@unsa.edu.pe | QA Manual/Functional | @jose |
 | 8  | ARCANO/GONZALES, Edgard Darick | edgard@unsa.edu.pe | QA Automation/API | @edgard |
