@@ -7,7 +7,7 @@ https://docs.github.com/es/get-started/start-your-journey/git-and-github-learnin
 
 | N° | Nombre Completo | Email | Rol Principal | GitHub Username |
 |----|-----------------|-------|---------------|-----------------|
-| 0  | JUAREZ BUENO/ Juan Carlos    | jjuarez@unsa.edu.pe | Product Owner | @jjuarez29 |
+| 0  | JUAREZ BUENO/ Juan Carlos    | jjuarez@unsa.edu.pe | Product Owner | jjuarez29 |
 | 1  | CONDORI/CATASI, Jonnier Angel | jonnier@unsa.edu.pe | Project Manager | @jonnier |
 | 2  | ACHIRI/CUEVAS, Daniel Cooper | dachiri@unsa.edu.pe | Backend Developer | @AchiriXD |
 | 3  | JALA/PARICANAZA, Ronald David | rjala@unsa.edu.pe | Frontend Web Developer | @ronald-0112 |
